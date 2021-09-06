@@ -1,1 +1,1 @@
-# zackarymn.github.io
+permalink: /index.html
